@@ -14,6 +14,7 @@ Requirements:
 
 * Ruby 1.9.3
 * Mongo
+* Node.js
 
 The default username and password are `guard` / `llama`. Change these in `config.yml`, unless you want everybody to access your test results. SSL is required in an production environment by default.
 
